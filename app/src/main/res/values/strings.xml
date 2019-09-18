@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Inclass04Homework</string>
+    <string name="strComplexity">Select Complexity:</string>
+    <string name="numComp">val</string>
+    <string name="tv3">Minimum:</string>
+    <string name="tv4">Maximum:</string>
+    <string name="tv5">Average:</string>
+    <string name="button1">Generate Number Async Task</string>
+    <string name="tvMin">min</string>
+    <string name="tvMax">max</string>
+    <string name="tvAvg">Avg</string>
+</resources>
